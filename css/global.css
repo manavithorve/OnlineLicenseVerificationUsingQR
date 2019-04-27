@@ -1,0 +1,7 @@
+*color:#FFF;
+.bg{background: url('../images/bg1.jpg') no-repeat; width: 100%; height: 100vh;}
+.form-container{border:0px solid #FFF;padding:50px 60px; margin-top:15vh;
+-webkit-box-shadow: -1px 2px 25px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 2px 25px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 2px 25px 11px rgba(0,0,0,0.75);
+}
