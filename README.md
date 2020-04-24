@@ -14,3 +14,5 @@
 2. JAR files for automatic creation of PDF (itext,pdfbox)
 3. Java API for QR code creation(zxing api) 
 4. mysqlconnecter 
+
+Note: If you clone or download this repository then rename the folder as FinalProject and change the IP address in the URL of the QR TEXT
